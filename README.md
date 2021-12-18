@@ -1,20 +1,24 @@
-# Vampyric [X](http://link-to-x.com)
+# Vampyric [Vim](https://www.vim.org/) and [NeoVim](https://neovim.io/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Vim](https://www.vim.org/) and [NeoVim](https://neovim.io/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-Insert your instructions on how to get your theme up and running here.
+Add a line in your .vimrc that sources the theme.
+`source /Path/to/VampyricDark.vim`
+
+Alternatively, source it while in vim.
+`:source /Path/to/VampyricDark.vim`
 
 ## Team
 
 This theme maintained by:
 
-[![RaphGL](https://github.com/RaphGL.png?size=100)](https://github.com/RaphGL) |
+[![Uiyx](https://github.com/Uiyx.png?size=100)](https://github.com/Uiyx) |
 --- |
-[RaphGL](https://github.com/RaphGL) |
+[Uiyx](https://github.com/Uiyx) |
 
 ## License
 

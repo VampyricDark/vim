@@ -7,9 +7,11 @@
 ## Install
 
 Add a line in your .vimrc that sources the theme.
+
 `source /Path/to/VampyricDark.vim`
 
 Alternatively, source it while in vim.
+
 `:source /Path/to/VampyricDark.vim`
 
 ## Team

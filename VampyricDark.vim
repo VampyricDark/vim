@@ -16,7 +16,7 @@ hi GitGutterChangeDelete guifg=#e04848 guibg=NONE
 hi cssIdentifier guifg=#e04848 guibg=NONE
 hi cssImportant guifg=#e04848 guibg=NONE
 hi Type guifg=#ff59c5 guibg=NONE
-hi Identifier guifg=#383a59 guibg=NONE
+hi Identifier guifg=#54a7f0 guibg=NONE
 hi PMenuSel guifg=#59de47 guibg=NONE
 hi Constant guifg=#383a59 guibg=NONE
 hi Repeat guifg=#59de47 guibg=NONE

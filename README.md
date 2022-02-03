@@ -6,13 +6,16 @@
 
 ## Install
 
-Add a line in your .vimrc that sources the theme.
+Install it using your favorite vim plugin manager
 
-`source /Path/to/VampyricDark.vim`
+packer.nvim:
+`$ use VampyricDark/vim`
 
-Alternatively, source it while in vim.
+vim-plug:
+`$ Plug VampyricDark/vim`
 
-`:source /Path/to/VampyricDark.vim`
+After that you can apply it like any other vim colorscheme:
+`:colorscheme VampyricDark`
 
 ## Team
 

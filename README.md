@@ -10,11 +10,11 @@ Install it using your favorite vim plugin manager
 
 packer.nvim:
 
-`$ use VampyricDark/vim`
+`use VampyricDark/vim`
 
 vim-plug:
 
-`$ Plug VampyricDark/vim`
+`Plug VampyricDark/vim`
 
 After that you can apply it like any other vim colorscheme:
 
